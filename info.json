@@ -1,1 +1,35 @@
+{"name":"Atom",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Atom aims to accelerate scientific research by revolutionizing todays funding mechanisms for basic research. The current system of funding research is often biased, opaque, and inefficient with regards to allocating funds. Atom is building a platform utilizing quadratic funding and other blockchain powered models to identify and fund the most impactful early stage research projects.",
+"whitePaperLink":"https://docs.google.com/presentation/d/e/2PACX-1vRgBS2P_S4iDmyl9yo7KU8lqGBD-JjfiPv_xyoKwNAf_fe6M0Nv7h7U5R-8HcGVGcDXP8Um6uP3X_IO/pub?start=false&loop=false&delayms=3000",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/r6WgiUM.png",
+       "source": "image",
+       "link": "https://www.atomprotocol.xyz/"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/kR3ivgo.png",      "source": "image",
+       "link": "https://www.atomprotocol.xyz/"}
+ ],
+"deleted":false,
+"primaryColor":"#ff7337",
+"twitterHandle":"atomprotocol_",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://res.cloudinary.com/emergent/image/upload/v1682122767/atom_dqevix.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.atomprotocol.xyz/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Focused Research", "Decentralized funding", "Science DeFi", "Philanthropy"]
+  
+}
+
+
+
 
